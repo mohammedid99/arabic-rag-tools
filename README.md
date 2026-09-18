@@ -21,7 +21,7 @@ when in fact retrieval never returned the right chunk.
 ## Install
 
 ```bash
-git clone https://github.com/USERNAME/arabic-rag-tools.git
+git clone https://github.com/mohammedid99/arabic-rag-tools.git
 cd arabic-rag-tools
 ```
 
